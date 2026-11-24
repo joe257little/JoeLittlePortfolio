@@ -1,0 +1,9 @@
+{
+  "name": "joe-little-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Joseph Little portfolio: a static site (no build step).",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000"
+  }
+}
